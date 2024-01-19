@@ -1,0 +1,11 @@
+.prod-div{
+    background-color: #eae2b72d;
+}
+.bttn{
+    background-color: var(--bgc);
+    color: white;
+}
+.bttn:hover, .bttn:active{
+    border: 3px solid var(--bgc);
+    font-size: 1.3rem;
+}

@@ -1,0 +1,17 @@
+.details{
+    background-color: var(--bgc);
+    color: aliceblue;
+    width: 70%;
+}
+.details:hover, .details:active{
+    border: 3px solid var(--bgc);
+    font-size: 1.3rem;
+    width: 80%;
+}
+.Shadow{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.crd{
+    border-radius: 6%;
+    background-color: #eae2b7;
+}
